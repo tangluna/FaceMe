@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Welcome to FaceMe!",
+        "desc": "You can use this app to help recognize people you know.",
+        "img_path": "assets/vectors/undraw_1st.svg"
+    },
+    {
+        "title": "Recognize Friends & Family",
+        "desc": "Hold your phone up to quickly recognize approaching friends and family",
+        "img_path": "assets/vectors/undraw_2nd.svg"
+    },
+    {
+        "title": "Relate to Loved Ones",
+        "desc": "View the changes in emotions of someone you care for.",
+        "img_path": "assets/vectors/undraw_3rd.svg"
+    },
+    {
+        "title": "Safely Navigate Your Way Around",
+        "desc": "With the help of personalized features, you can be more independent.",
+        "img_path": "assets/vectors/undraw_4th.svg"
+    },
+    {
+        "title": "",
+        "desc": "",
+        "img_path": "assets/vectors/ic_empty.svg"
+    }
+]

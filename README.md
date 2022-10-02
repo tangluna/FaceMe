@@ -1,2 +1,3 @@
-# FaceMe
-HackMIT 2022 ;D
+# helpout
+
+A new Flutter project.

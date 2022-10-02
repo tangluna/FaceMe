@@ -28,7 +28,7 @@ friend_map = [
     [rumaisa_image, "Rumaisa"]
 ]
 
-while True:
-    # Print out who's face is biggest for each frame
-    ret, frame = video_capture.read()
-    print(identify.who_is_this(friend_map, frame))
+# while True:
+#     # Print out who's face is biggest for each frame
+#     ret, frame = video_capture.read()
+#     print(identify.who_is_this(friend_map, frame))
