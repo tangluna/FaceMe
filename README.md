@@ -1,8 +1,11 @@
 # FaceMe
 
 HackMIT 2022! 
+
 Video demo here: https://www.youtube.com/watch?v=JSGzNlfhmo4
+
 Slides here: https://docs.google.com/presentation/d/1dSdeSKypn4yZ2iMHKZ9NpZEi64CvbaMAkBb0hX8scmc/edit?usp=sharing
+
 Our project on Spectacle: https://spectacle.hackmit.org/project/84
 
 Both as a diagnosed condition (prosopagnosia) and just as a day-to-day issue, many people can struggle with putting names to faces that they have seen before. Our app, coded using Flutter to be cross-platform, uses face recognition technology along with OpenCV to recognize people in real time.
