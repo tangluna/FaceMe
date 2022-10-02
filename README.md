@@ -2,6 +2,8 @@
 
 HackMIT 2022! 
 
+Inside Joke: WHY ARE YOU OBAMA???
+
 Video demo here: https://www.youtube.com/watch?v=JSGzNlfhmo4
 
 Slides here: https://docs.google.com/presentation/d/1dSdeSKypn4yZ2iMHKZ9NpZEi64CvbaMAkBb0hX8scmc/edit?usp=sharing
